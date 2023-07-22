@@ -7,5 +7,5 @@ I'm Koufuchi .
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<img align="" height="180px" src="https://github-readme-stats.vercel.app/api?username=Koufuchi&show_icons=true&line_height=21&theme=radical&locale=en" /><img align="" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koufuchi&layout=compact&theme=radical&locale=en" />
+<img align="" height="180px" src="https://github-readme-stats.vercel.app/api?username=Koufuchi&hide=issues,contribs&show_icons=true&line_height=21&theme=radical&locale=en" /><img align="" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koufuchi&layout=compact&hide=blade,html,css&theme=radical&locale=en" />
 
