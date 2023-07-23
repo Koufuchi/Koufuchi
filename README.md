@@ -4,6 +4,8 @@ I'm Koufuchi .
 
 📔 Blog: <https://koufuchi.github.io/>
 
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Koufuchi&hide=issues,contribs&show_icons=true&line_height=21&theme=radical&locale=en" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koufuchi&layout=compact&hide=blade,html,css&theme=radical&locale=en" />
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
@@ -80,5 +82,4 @@ Shell                    1 repo              █░░░░░░░░░░�
  Last Updated on 23/07/2023 00:32:25 UTC
 <!--END_SECTION:waka-->
 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Koufuchi&hide=issues,contribs&show_icons=true&line_height=21&theme=radical&locale=en" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koufuchi&layout=compact&hide=blade,html,css&theme=radical&locale=en" />
 
