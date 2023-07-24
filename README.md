@@ -9,12 +9,15 @@ I'm Koufuchi .
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Koufuchi&hide=issues,contribs&show_icons=true&line_height=21&theme=radical&locale=en" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koufuchi&layout=compact&hide=blade,html,css&theme=radical&locale=en" />
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%209%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-122-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 29.8 kB Used in GitHub's Storage 
  > 
-> 🏆 289 Contributions in the Year 2023
+> 🏆 291 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -22,43 +25,33 @@ I'm Koufuchi .
  > 
 > 🔑 3 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                45 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-🌆 Daytime                132 commits         ██████████░░░░░░░░░░░░░░░   41.64 % 
-🌃 Evening                104 commits         ████████░░░░░░░░░░░░░░░░░   32.81 % 
-🌙 Night                  36 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
-Tuesday                  103 commits         ████████░░░░░░░░░░░░░░░░░   32.49 % 
-Wednesday                36 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-Thursday                 61 commits          █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
-Friday                   18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-Saturday                 47 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-Sunday                   23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+Monday                   29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Tuesday                  105 commits         ████████░░░░░░░░░░░░░░░░░   32.92 % 
+Wednesday                36 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+Thursday                 61 commits          █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
+Friday                   18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+Saturday                 47 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+Sunday                   23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
 ```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Taipei
-
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       42 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  42 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+goTest                   42 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  42 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -78,7 +71,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Koufuchi/Koufuchi/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2023 17:22:10 UTC
+ Last Updated on 24/07/2023 17:38:57 UTC
 <!--END_SECTION:waka-->
 
 
