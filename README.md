@@ -1,15 +1,14 @@
-### Hi there 👋
+### Hi there 👋 &nbsp;&nbsp; ![Profile Views](http://img.shields.io/badge/Profile%20Views-122-blue)
 
-I'm Koufuchi .
+I'm Koufuchi . 
 
 📔 Blog: <https://koufuchi.github.io/>
+
+<!-- ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue) -->
 
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Koufuchi&hide=issues,contribs&show_icons=true&line_height=21&theme=radical&locale=en" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koufuchi&layout=compact&hide=blade,html,css&theme=radical&locale=en" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-122-blue)
 
 **🐱 My GitHub Data** 
 
