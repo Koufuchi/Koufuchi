@@ -7,15 +7,11 @@ I'm Koufuchi .
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Koufuchi&hide=issues,contribs&show_icons=true&line_height=21&theme=radical&locale=en" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koufuchi&layout=compact&hide=blade,html,css&theme=radical&locale=en" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%209%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-122-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 29.8 kB Used in GitHub's Storage 
  > 
-> 🏆 291 Contributions in the Year 2023
+> 🏆 293 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -26,13 +22,13 @@ I'm Koufuchi .
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Tuesday                  105 commits         ████████░░░░░░░░░░░░░░░░░   32.92 % 
-Wednesday                36 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-Thursday                 61 commits          █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
-Friday                   18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
-Saturday                 47 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-Sunday                   23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+Monday                   29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+Tuesday                  107 commits         ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Wednesday                36 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+Thursday                 61 commits          █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
+Friday                   18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+Saturday                 47 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+Sunday                   23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
 ```
 
 
@@ -69,7 +65,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Koufuchi/Koufuchi/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2023 17:38:57 UTC
+ Last Updated on 24/07/2023 17:54:32 UTC
 <!--END_SECTION:waka-->
 
 
