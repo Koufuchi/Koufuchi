@@ -7,28 +7,16 @@ I'm Koufuchi .
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Koufuchi&hide=issues,contribs&show_icons=true&line_height=21&theme=radical&locale=en" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koufuchi&layout=compact&hide=blade,html,css&theme=radical&locale=en" />
 
 <!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
-
-> 📦 29.8 kB Used in GitHub's Storage 
- > 
-> 🏆 293 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 26 Public Repositories 
- > 
-> 🔑 3 Private Repositories 
- > 
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
-Tuesday                  107 commits         ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Wednesday                36 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-Thursday                 61 commits          █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
-Friday                   18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
-Saturday                 47 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-Sunday                   23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+Monday                   29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+Tuesday                  107 commits         ████████░░░░░░░░░░░░░░░░░   33.02 % 
+Wednesday                39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+Thursday                 61 commits          █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
+Friday                   18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Saturday                 47 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+Sunday                   23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
 ```
 
 
@@ -66,12 +54,8 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/Koufuchi/Koufuchi/main/assets/bar_graph.png)
-
-
- Last Updated on 26/07/2023 00:29:44 UTC
+ Last Updated on 26/07/2023 07:32:50 UTC
 <!--END_SECTION:waka-->
 
 
