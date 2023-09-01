@@ -4,7 +4,7 @@ I'm Koufuchi .
 
 📔 Blog: <https://koufuchi.github.io/>
 
-<img align="" height="137px" src="https://github-readme-stats-seven-nu-30.vercel.app/api?username=Koufuchi&hide=issues,contribs&show_icons=true&line_height=21&theme=radical&locale=en" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koufuchi&layout=compact&hide=blade,html,css&theme=radical&locale=en" />
+<img align="" height="137px" src="https://github-readme-stats-seven-nu-30.vercel.app/api?username=Koufuchi&hide=issues,contribs&show_icons=true&line_height=21&theme=radical&locale=en" /><img align="" height="137px" src="https://github-readme-stats-seven-nu-30.vercel.app/api/top-langs/?username=Koufuchi&layout=compact&hide=blade,html,css&theme=radical&locale=en" />
 
 <!--START_SECTION:waka-->
 📅 **I'm Most Productive on Tuesday** 
