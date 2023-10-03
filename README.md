@@ -7,16 +7,18 @@ I'm Koufuchi .
 <img align="" height="137px" src="https://github-readme-stats-seven-nu-30.vercel.app/api?username=Koufuchi&hide=issues,contribs&show_icons=true&line_height=21&theme=radical&locale=en" /><img align="" height="137px" src="https://github-readme-stats-seven-nu-30.vercel.app/api/top-langs/?username=Koufuchi&layout=compact&hide=blade,html,css,pug,scss&theme=radical&locale=en" />
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-74%20hrs%2039%20mins-blue)
+
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   74 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
-Tuesday                  130 commits         ████████░░░░░░░░░░░░░░░░░   30.23 % 
-Wednesday                47 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-Thursday                 39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
-Friday                   56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-Saturday                 63 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
-Sunday                   21 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+Monday                   74 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
+Tuesday                  132 commits         ████████░░░░░░░░░░░░░░░░░   30.56 % 
+Wednesday                47 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+Thursday                 39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+Friday                   56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+Saturday                 63 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+Sunday                   21 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
 ```
 
 
@@ -54,7 +56,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/10/2023 00:25:41 UTC
+ Last Updated on 03/10/2023 07:49:41 UTC
 <!--END_SECTION:waka-->
 
 
