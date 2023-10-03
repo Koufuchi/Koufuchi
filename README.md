@@ -1,4 +1,4 @@
-### Hi there 👋 &nbsp;&nbsp; ![Profile Views](http://img.shields.io/badge/Profile%20Views-122-blue)
+### Hi there 👋 &nbsp;&nbsp; ![Profile Views](http://img.shields.io/badge/Profile%20Views-1222-blue)
 
 I'm Koufuchi . 
 
