@@ -7,7 +7,7 @@ I'm Koufuchi .
 <img align="" height="137px" src="https://github-readme-stats-seven-nu-30.vercel.app/api?username=Koufuchi&hide=issues,contribs&show_icons=true&line_height=21&theme=radical&locale=en" /><img align="" height="137px" src="https://github-readme-stats-seven-nu-30.vercel.app/api/top-langs/?username=Koufuchi&layout=compact&hide=blade,html,css,pug,scss&theme=radical&locale=en" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-199%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-204%20hrs%2055%20mins-blue)
 
 📅 **I'm Most Productive on Tuesday** 
 
@@ -60,7 +60,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/12/2023 00:26:34 UTC
+ Last Updated on 10/12/2023 00:30:00 UTC
 <!--END_SECTION:waka-->
 
 
