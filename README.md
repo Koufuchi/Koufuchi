@@ -1,4 +1,4 @@
-### Hi there 👋 &nbsp;&nbsp; ![Profile Views](http://img.shields.io/badge/Profile%20Views-1222-blue)
+### Hi there 👋 &nbsp;&nbsp; ![Profile Views](https://komarev.com/ghpvc/?username=Koufuchi)
 
 I'm Koufuchi . 
 
