@@ -1,4 +1,4 @@
-### Hi there 👋 &nbsp;&nbsp; ![Profile Views](https://komarev.com/ghpvc/?username=Koufuchi)
+### Hi there 👋 &nbsp;&nbsp; ![Profile Views](https://komarev.com/ghpvc/?username=Koufuchi&base=200)
 
 I'm Koufuchi . 
 
