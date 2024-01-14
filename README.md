@@ -7,7 +7,7 @@ I'm Koufuchi .
 <img align="" height="137px" src="https://github-readme-stats-seven-nu-30.vercel.app/api?username=Koufuchi&hide=issues,contribs&show_icons=true&line_height=21&theme=radical&locale=en" /><img align="" height="137px" src="https://github-readme-stats-seven-nu-30.vercel.app/api/top-langs/?username=Koufuchi&layout=compact&hide=blade,html,css,pug,scss&theme=radical&locale=en" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-260%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-263%20hrs%2015%20mins-blue)
 
 📅 **I'm Most Productive on Tuesday** 
 
@@ -33,17 +33,18 @@ Markdown                 1 hr 22 mins        ██░░░░░░░░░�
 Other                    53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 41 mins      █████████████████████████   100.00 % 
+VS Code                  19 hrs 42 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-crmsystem                8 hrs 56 mins       ███████████░░░░░░░░░░░░░░   45.38 % 
+crmsystem                8 hrs 56 mins       ███████████░░░░░░░░░░░░░░   45.37 % 
 ai-research-backend      6 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   33.31 % 
 kube-prometheus-stack    1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
-myHexo                   1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+myHexo                   1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
 ai-question-backend      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 
 💻 Operating System: 
-Mac                      19 hrs 41 mins      █████████████████████████   100.00 % 
+Mac                      19 hrs 41 mins      █████████████████████████   99.99 % 
+Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 **I Mostly Code in Python** 
@@ -59,7 +60,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/01/2024 00:27:35 UTC
+ Last Updated on 14/01/2024 00:30:34 UTC
 <!--END_SECTION:waka-->
 
 ![](https://hit.yhype.me/github/profile?user_id=46078832)
