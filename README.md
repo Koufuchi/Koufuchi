@@ -7,7 +7,7 @@ I'm Koufuchi .
 <img align="" height="137px" src="https://github-readme-stats-seven-nu-30.vercel.app/api?username=Koufuchi&hide=issues,contribs&show_icons=true&line_height=21&theme=radical&locale=en" /><img align="" height="137px" src="https://github-readme-stats-seven-nu-30.vercel.app/api/top-langs/?username=Koufuchi&layout=compact&hide=blade,html,css,pug,scss&theme=radical&locale=en" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-419%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-424%20hrs%2051%20mins-blue)
 
 📅 **I'm Most Productive on Tuesday** 
 
@@ -38,12 +38,12 @@ VS Code                  25 hrs 19 mins      ███████████�
 🐱‍💻 Projects: 
 ai-research-backend      24 hrs 52 mins      █████████████████████████   98.23 % 
 crmsystem                20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
-k6                       5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+k6                       4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 homebrew                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 💻 Operating System: 
-Mac                      25 hrs 19 mins      █████████████████████████   99.99 % 
-Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Mac                      25 hrs 19 mins      █████████████████████████   100.00 % 
+Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -59,7 +59,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/03/2024 00:24:48 UTC
+ Last Updated on 03/03/2024 00:27:57 UTC
 <!--END_SECTION:waka-->
 
 ![](https://hit.yhype.me/github/profile?user_id=46078832)
