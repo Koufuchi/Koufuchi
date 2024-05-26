@@ -8,7 +8,7 @@ I'm Koufuchi .
 <!-- <img align="" height="137px" src="https://github-readme-stats-seven-nu-30.vercel.app/api/top-langs/?username=Koufuchi&layout=compact&hide=blade,html,css,pug,scss&theme=radical&locale=en" /> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-605%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-610%20hrs%2043%20mins-blue)
 
 📅 **I'm Most Productive on Tuesday** 
 
@@ -37,8 +37,8 @@ Bash                     15 mins             ░░░░░░░░░░░�
 VS Code                  23 hrs 7 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      23 hrs 7 mins       █████████████████████████   99.99 % 
-Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Mac                      23 hrs 7 mins       █████████████████████████   100.00 % 
+Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -54,7 +54,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/05/2024 00:27:18 UTC
+ Last Updated on 26/05/2024 00:31:02 UTC
 <!--END_SECTION:waka-->
 
 ![](https://hit.yhype.me/github/profile?user_id=46078832)
