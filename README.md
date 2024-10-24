@@ -8,6 +8,8 @@ I'm Koufuchi .
 <!-- <img align="" height="137px" src="https://github-readme-stats-seven-nu-30.vercel.app/api/top-langs/?username=Koufuchi&layout=compact&hide=blade,html,css,pug,scss&theme=radical&locale=en" /> -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-626%20hrs%2043%20mins-blue)
+
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
@@ -47,7 +49,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/10/2024 00:35:14 UTC
+ Last Updated on 24/10/2024 00:35:36 UTC
 <!--END_SECTION:waka-->
 
 ![](https://hit.yhype.me/github/profile?user_id=46078832)
