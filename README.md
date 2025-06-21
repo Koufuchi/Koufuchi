@@ -4,7 +4,7 @@ I'm Koufuchi .
 
 📔 Blog: <https://koufuchi.com/>
 
-<img align="" height="137px" src="https://github-readme-stats-seven-nu-30.vercel.app/api?username=Koufuchi&hide=issues,contribs&hide_rank=true&show_icons=true&line_height=21&theme=radical&locale=en" />
+<!-- <img align="" height="137px" src="https://github-readme-stats-seven-nu-30.vercel.app/api?username=Koufuchi&hide=issues,contribs&hide_rank=true&show_icons=true&line_height=21&theme=radical&locale=en" /> -->
 <!-- <img align="" height="137px" src="https://github-readme-stats-seven-nu-30.vercel.app/api/top-langs/?username=Koufuchi&layout=compact&hide=blade,html,css,pug,scss&theme=radical&locale=en" /> -->
 
 <!--START_SECTION:waka-->
