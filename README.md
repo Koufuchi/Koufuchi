@@ -8,6 +8,8 @@ I'm Koufuchi .
 <!-- <img align="" height="137px" src="https://github-readme-stats-seven-nu-30.vercel.app/api/top-langs/?username=Koufuchi&layout=compact&hide=blade,html,css,pug,scss&theme=radical&locale=en" /> -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-644%20hrs%2035%20mins-blue)
+
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
@@ -25,16 +27,16 @@ Sunday                   33 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   8 hrs               █████████████████████████   98.92 % 
-Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Python                   4 hrs 46 mins       █████████████████████████   98.20 % 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 5 mins        █████████████████████████   100.00 % 
+VS Code                  4 hrs 51 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  8 hrs 5 mins        █████████████████████████   100.00 % 
+Windows                  4 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -50,7 +52,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/08/2025 01:40:39 UTC
+ Last Updated on 31/08/2025 01:50:42 UTC
 <!--END_SECTION:waka-->
 
 ![](https://hit.yhype.me/github/profile?user_id=46078832)
