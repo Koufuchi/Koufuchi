@@ -8,6 +8,34 @@ I'm Koufuchi .
 <!-- <img align="" height="137px" src="https://github-readme-stats-seven-nu-30.vercel.app/api/top-langs/?username=Koufuchi&layout=compact&hide=blade,html,css,pug,scss&theme=radical&locale=en" /> -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-656%20hrs%2033%20mins-blue?style=flat)
+
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   98 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
+Tuesday                  108 commits         █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
+Wednesday                85 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+Thursday                 67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+Friday                   83 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+Saturday                 81 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+Sunday                   34 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -21,7 +49,7 @@ JavaScript               2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 18/05/2026 04:03:34 UTC
+ Last Updated on 19/05/2026 03:56:58 UTC
 <!--END_SECTION:waka-->
 
 ![](https://hit.yhype.me/github/profile?user_id=46078832)
