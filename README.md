@@ -27,13 +27,18 @@ Sunday                   34 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Text                     0 secs              █████████████████████████   100.00 % 
+Other                    7 mins              ████████░░░░░░░░░░░░░░░░░   31.58 % 
+TOML                     7 mins              ████████░░░░░░░░░░░░░░░░░   30.14 % 
+Python                   3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
+Text                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+JSON                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+Claude Code              19 mins             ████████████████████░░░░░   80.63 % 
+VS Code                  4 mins              █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+Windows                  24 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -49,7 +54,7 @@ JavaScript               2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 12/07/2026 03:20:06 UTC
+ Last Updated on 13/07/2026 03:22:48 UTC
 <!--END_SECTION:waka-->
 
 ![](https://hit.yhype.me/github/profile?user_id=46078832)
