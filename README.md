@@ -13,13 +13,13 @@ I'm Koufuchi .
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   98 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
-Tuesday                  108 commits         █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
-Wednesday                85 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
-Thursday                 67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-Friday                   83 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
-Saturday                 81 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-Sunday                   34 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+Monday                   98 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
+Tuesday                  109 commits         █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
+Wednesday                85 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
+Thursday                 67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+Friday                   83 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+Saturday                 82 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+Sunday                   41 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
 ```
 
 
@@ -27,34 +27,34 @@ Sunday                   34 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 27 mins             █████████████░░░░░░░░░░░░   53.49 % 
-Other                    7 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-TOML                     7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-Text                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
-Python                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+GDScript3                2 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   37.00 % 
+Markdown                 1 hr 45 mins        ██████░░░░░░░░░░░░░░░░░░░   25.67 % 
+Python                   1 hr 16 mins        █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
+YAML                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+Batchfile                16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
 
 🔥 Editors: 
-Claude Code              38 mins             ██████████████████░░░░░░░   72.90 % 
-VS Code                  14 mins             ███████░░░░░░░░░░░░░░░░░░   27.10 % 
+Claude Code              5 hrs 48 mins       █████████████████████░░░░   84.84 % 
+VS Code                  1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
 
 💻 Operating System: 
-Windows                  52 mins             █████████████████████████   100.00 % 
+Windows                  6 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   9 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
-Shell                    4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Go                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Python                   10 repos            ████████░░░░░░░░░░░░░░░░░   32.26 % 
+Shell                    4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+Go                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
 ```
 
 
 
 
- Last Updated on 19/07/2026 03:16:48 UTC
+ Last Updated on 20/07/2026 03:30:43 UTC
 <!--END_SECTION:waka-->
 
 ![](https://hit.yhype.me/github/profile?user_id=46078832)
