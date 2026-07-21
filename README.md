@@ -8,7 +8,7 @@ I'm Koufuchi .
 <!-- <img align="" height="137px" src="https://github-readme-stats-seven-nu-30.vercel.app/api/top-langs/?username=Koufuchi&layout=compact&hide=blade,html,css,pug,scss&theme=radical&locale=en" /> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-657%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-662%20hrs%201%20min-blue?style=flat)
 
 📅 **I'm Most Productive on Tuesday** 
 
@@ -27,18 +27,18 @@ Sunday                   41 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-GDScript3                2 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   37.00 % 
-Markdown                 1 hr 45 mins        ██████░░░░░░░░░░░░░░░░░░░   25.67 % 
-Python                   1 hr 16 mins        █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
-YAML                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
-Batchfile                16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+Markdown                 2 hrs 52 mins       ███████████░░░░░░░░░░░░░░   45.32 % 
+Python                   1 hr 16 mins        █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
+GDScript3                52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+YAML                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+Batchfile                16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 48 mins       █████████████████████░░░░   84.84 % 
-VS Code                  1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+Claude Code              3 hrs 40 mins       ██████████████░░░░░░░░░░░   57.91 % 
+VS Code                  2 hrs 40 mins       ███████████░░░░░░░░░░░░░░   42.09 % 
 
 💻 Operating System: 
-Windows                  6 hrs 50 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -54,7 +54,7 @@ JavaScript               2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 20/07/2026 03:30:43 UTC
+ Last Updated on 21/07/2026 02:57:16 UTC
 <!--END_SECTION:waka-->
 
 ![](https://hit.yhype.me/github/profile?user_id=46078832)
