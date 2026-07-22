@@ -8,18 +8,18 @@ I'm Koufuchi .
 <!-- <img align="" height="137px" src="https://github-readme-stats-seven-nu-30.vercel.app/api/top-langs/?username=Koufuchi&layout=compact&hide=blade,html,css,pug,scss&theme=radical&locale=en" /> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-662%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-664%20hrs%202%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   98 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
-Tuesday                  109 commits         █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
-Wednesday                85 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
-Thursday                 67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-Friday                   83 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-Saturday                 82 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-Sunday                   41 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+Monday                   100 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
+Tuesday                  111 commits         █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
+Wednesday                86 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+Thursday                 67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+Friday                   83 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+Saturday                 82 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
+Sunday                   43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
 ```
 
 
@@ -27,34 +27,34 @@ Sunday                   41 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 52 mins       ███████████░░░░░░░░░░░░░░   45.32 % 
-Python                   1 hr 16 mins        █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
-GDScript3                52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
-YAML                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
-Batchfile                16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+Markdown                 2 hrs 52 mins       ███████████░░░░░░░░░░░░░░   42.59 % 
+Python                   1 hr 16 mins        █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
+GDScript3                1 hr 16 mins        █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
+YAML                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+Batchfile                16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 40 mins       ██████████████░░░░░░░░░░░   57.91 % 
-VS Code                  2 hrs 40 mins       ███████████░░░░░░░░░░░░░░   42.09 % 
+Claude Code              4 hrs 4 mins        ███████████████░░░░░░░░░░   60.45 % 
+VS Code                  2 hrs 40 mins       ██████████░░░░░░░░░░░░░░░   39.55 % 
 
 💻 Operating System: 
-Windows                  6 hrs 20 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   10 repos            ████████░░░░░░░░░░░░░░░░░   32.26 % 
-Shell                    4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-Go                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Python                   10 repos            ████████░░░░░░░░░░░░░░░░░   31.25 % 
+Shell                    4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+Go                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+GDScript                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 ```
 
 
 
 
- Last Updated on 21/07/2026 02:57:16 UTC
+ Last Updated on 22/07/2026 02:55:00 UTC
 <!--END_SECTION:waka-->
 
 ![](https://hit.yhype.me/github/profile?user_id=46078832)
