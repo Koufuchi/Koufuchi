@@ -8,18 +8,16 @@ I'm Koufuchi .
 <!-- <img align="" height="137px" src="https://github-readme-stats-seven-nu-30.vercel.app/api/top-langs/?username=Koufuchi&layout=compact&hide=blade,html,css,pug,scss&theme=radical&locale=en" /> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-664%20hrs%2027%20mins-blue?style=flat)
-
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   100 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
-Tuesday                  111 commits         █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
-Wednesday                86 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
-Thursday                 67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-Friday                   83 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-Saturday                 82 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-Sunday                   43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+Monday                   100 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
+Tuesday                  111 commits         █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
+Wednesday                87 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+Thursday                 69 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+Friday                   85 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+Saturday                 82 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+Sunday                   43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
 ```
 
 
@@ -27,18 +25,18 @@ Sunday                   43 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 52 mins       ███████████░░░░░░░░░░░░░░   42.59 % 
-Python                   1 hr 16 mins        █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
-GDScript3                1 hr 16 mins        █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
-YAML                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
-Batchfile                16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+Markdown                 3 hrs 13 mins       ███████████░░░░░░░░░░░░░░   44.30 % 
+GDScript3                1 hr 26 mins        █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
+Python                   1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
+YAML                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+Batchfile                16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 4 mins        ███████████████░░░░░░░░░░   60.45 % 
-VS Code                  2 hrs 40 mins       ██████████░░░░░░░░░░░░░░░   39.55 % 
+Claude Code              4 hrs 16 mins       ███████████████░░░░░░░░░░   58.76 % 
+VS Code                  2 hrs 59 mins       ██████████░░░░░░░░░░░░░░░   41.24 % 
 
 💻 Operating System: 
-Windows                  6 hrs 45 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -54,7 +52,7 @@ GDScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/07/2026 03:16:37 UTC
+ Last Updated on 24/07/2026 02:55:48 UTC
 <!--END_SECTION:waka-->
 
 ![](https://hit.yhype.me/github/profile?user_id=46078832)
