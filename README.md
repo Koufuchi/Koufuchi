@@ -27,18 +27,18 @@ Sunday                   43 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 46 mins       ██████████░░░░░░░░░░░░░░░   41.20 % 
-GDScript3                1 hr 26 mins        █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
-Python                   1 hr 14 mins        █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
-YAML                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
-Batchfile                16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+GDScript3                1 hr 18 mins        █████████████░░░░░░░░░░░░   52.06 % 
+Markdown                 1 hr 9 mins         ███████████░░░░░░░░░░░░░░   45.84 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 52 mins       ██████████████░░░░░░░░░░░   57.76 % 
-VS Code                  2 hrs 50 mins       ███████████░░░░░░░░░░░░░░   42.24 % 
+VS Code                  1 hr 57 mins        ███████████████████░░░░░░   77.71 % 
+Claude Code              33 mins             ██████░░░░░░░░░░░░░░░░░░░   22.29 % 
 
 💻 Operating System: 
-Windows                  6 hrs 43 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -54,7 +54,7 @@ GDScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 03:21:07 UTC
+ Last Updated on 27/07/2026 03:31:13 UTC
 <!--END_SECTION:waka-->
 
 ![](https://hit.yhype.me/github/profile?user_id=46078832)
