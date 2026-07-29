@@ -8,10 +8,6 @@ I'm Koufuchi .
 <!-- <img align="" height="137px" src="https://github-readme-stats-seven-nu-30.vercel.app/api/top-langs/?username=Koufuchi&layout=compact&hide=blade,html,css,pug,scss&theme=radical&locale=en" /> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-654%20hrs%203%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20hrs%2019%20mins-blue?style=flat)
-
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
@@ -29,36 +25,19 @@ Sunday                   43 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-GDScript3                23 mins             ████████████████████████░   95.64 % 
-Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              24 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  24 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 mins (100.0%)
-
-✍️ 19 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 16,320,349 Input Tokens, 21,417 Output Tokens
-
-💵 $49.28 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 2 AI Prompts
-
-Sonnet                   19 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 33 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -74,7 +53,7 @@ GDScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2026 02:47:22 UTC
+ Last Updated on 29/07/2026 02:54:27 UTC
 <!--END_SECTION:waka-->
 
 ![](https://hit.yhype.me/github/profile?user_id=46078832)
