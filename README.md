@@ -8,6 +8,10 @@ I'm Koufuchi .
 <!-- <img align="" height="137px" src="https://github-readme-stats-seven-nu-30.vercel.app/api/top-langs/?username=Koufuchi&layout=compact&hide=blade,html,css,pug,scss&theme=radical&locale=en" /> -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-654%20hrs%203%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20hrs%2019%20mins-blue?style=flat)
+
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
@@ -53,7 +57,7 @@ GDScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 02:49:30 UTC
+ Last Updated on 08/08/2026 01:51:52 UTC
 <!--END_SECTION:waka-->
 
 ![](https://hit.yhype.me/github/profile?user_id=46078832)
