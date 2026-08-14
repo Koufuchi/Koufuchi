@@ -8,9 +8,9 @@ I'm Koufuchi .
 <!-- <img align="" height="137px" src="https://github-readme-stats-seven-nu-30.vercel.app/api/top-langs/?username=Koufuchi&layout=compact&hide=blade,html,css,pug,scss&theme=radical&locale=en" /> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-656%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-659%20hrs%2035%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-13%20hrs%2036%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20hrs%2048%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Tuesday** 
 
@@ -29,43 +29,43 @@ Sunday                   43 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 59 mins       █████████████░░░░░░░░░░░░   53.37 % 
-Markdown                 2 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   31.78 % 
-HTML                     50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
-Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
-CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+Python                   4 hrs 45 mins       ████████████░░░░░░░░░░░░░   49.81 % 
+Markdown                 3 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   31.83 % 
+HTML                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+Other                    44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
+CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 14 mins       █████████████████░░░░░░░░   69.87 % 
-Codex Vscode             1 hr 25 mins        █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
-VS Code                  50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
+Claude Code              5 hrs 14 mins       ██████████████░░░░░░░░░░░   54.85 % 
+Codex Vscode             3 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   35.08 % 
+VS Code                  57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
 
 💻 Operating System: 
-Windows                  7 hrs 29 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 19 mins (97.76%)
+⏱ AI Coding Time: 9 hrs 16 mins (97.28%)
 
-✍️ 10,676 lines written by AI, 23 lines written by hand (99.79% AI-written)
+✍️ 11,563 lines written by AI, 23 lines written by hand (99.8% AI-written)
 
-🔤 5,370,353 Input Tokens, 571,186 Output Tokens
+🔤 6,258,263 Input Tokens, 649,392 Output Tokens
 
-💵 $137.76 Estimated AI Cost This Week
+💵 $151.77 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 81 AI Prompts
+🧠 24 AI Sessions, 94 AI Prompts
 
-Opus                     9,619 lines         ███████████████████████░░   90.06 % 
-GPT                      948 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
-Codex-Vscode             114 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+Opus                     9,619 lines         █████████████████████░░░░   83.15 % 
+GPT                      1,835 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
+Codex-Vscode             114 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.79% of written lines came from AI
-📄 Detailed Prompter — average 1,221 characters per prompt
+🤖 AI-Driven — 99.8% of written lines came from AI
+📄 Detailed Prompter — average 1,062 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.25% of changed lines were hand-edited
+🚀 High AI Trust — 0.24% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -81,7 +81,7 @@ GDScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/08/2026 02:14:22 UTC
+ Last Updated on 14/08/2026 02:11:49 UTC
 <!--END_SECTION:waka-->
 
 ![](https://hit.yhype.me/github/profile?user_id=46078832)
