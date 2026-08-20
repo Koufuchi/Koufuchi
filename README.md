@@ -15,13 +15,13 @@ I'm Koufuchi .
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   100 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
-Tuesday                  111 commits         █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
-Wednesday                87 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
-Thursday                 69 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-Friday                   86 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-Saturday                 82 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-Sunday                   43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+Monday                   100 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
+Tuesday                  111 commits         █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
+Wednesday                88 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+Thursday                 69 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+Friday                   86 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+Saturday                 82 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+Sunday                   43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
 ```
 
 
@@ -29,59 +29,58 @@ Sunday                   43 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 3 hrs 12 mins       ███████████░░░░░░░░░░░░░░   45.38 % 
-Python                   1 hr 53 mins        ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-Other                    1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
-Text                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
-HTML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Python                   1 hr 18 mins        █████████░░░░░░░░░░░░░░░░   35.29 % 
+Markdown                 58 mins             ███████░░░░░░░░░░░░░░░░░░   26.12 % 
+Other                    47 mins             █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
+Batchfile                19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
 
 🔥 Editors: 
-Codex Vscode             4 hrs 38 mins       ████████████████░░░░░░░░░   65.49 % 
-VS Code                  1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
-Claude Code              1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+Codex Vscode             2 hrs 35 mins       ██████████████████░░░░░░░   70.03 % 
+VS Code                  1 hr 6 mins         ███████░░░░░░░░░░░░░░░░░░   29.97 % 
 
 💻 Operating System: 
-Windows                  7 hrs 4 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 46 mins (95.63%)
+⏱ AI Coding Time: 2 hrs 58 mins (80.22%)
 
-✍️ 4,160 lines written by AI, 26 lines written by hand (99.38% AI-written)
+✍️ 2,125 lines written by AI, 1,051 lines written by hand (66.91% AI-written)
 
-🔤 4,028,727 Input Tokens, 319,121 Output Tokens
+🔤 1,639,126 Input Tokens, 149,777 Output Tokens
 
-💵 $63.82 Estimated AI Cost This Week
+💵 $26.12 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 97 AI Prompts
+🧠 8 AI Sessions, 32 AI Prompts
 
-GPT                      3,509 lines         █████████████████████░░░░   84.33 % 
-Opus                     538 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-Codex-Vscode             114 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+GPT                      1,607 lines         ██████████████████░░░░░░░   73.95 % 
+Github-Copilot           566 lines           ███████░░░░░░░░░░░░░░░░░░   26.05 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.38% of written lines came from AI
-📚 Verbose Prompter — average 1,681 characters per prompt
+🤖 AI-Driven — 66.91% of written lines came from AI
+📄 Detailed Prompter — average 628 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.74% of changed lines were hand-edited
+🚀 High AI Trust — 49.26% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   10 repos            ████████░░░░░░░░░░░░░░░░░   31.25 % 
-Shell                    4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-Go                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-GDScript                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Python                   11 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Shell                    4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Go                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+GDScript                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 ```
 
 
 
 
- Last Updated on 19/08/2026 01:25:23 UTC
+ Last Updated on 20/08/2026 01:24:39 UTC
 <!--END_SECTION:waka-->
 
 ![](https://hit.yhype.me/github/profile?user_id=46078832)
