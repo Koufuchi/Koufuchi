@@ -29,41 +29,41 @@ Sunday                   43 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   48 mins             █████████░░░░░░░░░░░░░░░░   36.45 % 
-Batchfile                20 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
-HTML                     20 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
-Markdown                 16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-PowerShell               14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Python                   48 mins             ██████████░░░░░░░░░░░░░░░   40.71 % 
+Batchfile                20 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
+Markdown                 16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+PowerShell               14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+JSON                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
 
 🔥 Editors: 
-VS Code                  1 hr 19 mins        ███████████████░░░░░░░░░░   59.99 % 
-Codex Vscode             53 mins             ██████████░░░░░░░░░░░░░░░   40.01 % 
+VS Code                  1 hr 19 mins        █████████████████░░░░░░░░   67.00 % 
+Codex Vscode             39 mins             ████████░░░░░░░░░░░░░░░░░   33.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 13 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 59 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 16 mins (57.04%)
+⏱ AI Coding Time: 1 hr 2 mins (52.02%)
 
-✍️ 1,641 lines written by AI, 1,192 lines written by hand (57.92% AI-written)
+✍️ 1,399 lines written by AI, 1,192 lines written by hand (53.99% AI-written)
 
-🔤 607,143 Input Tokens, 64,197 Output Tokens
+🔤 550,545 Input Tokens, 52,384 Output Tokens
 
-💵 $10.35 Estimated AI Cost This Week
+💵 $9.53 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 23 AI Prompts
+🧠 4 AI Sessions, 19 AI Prompts
 
-GPT                      1,075 lines         ████████████████░░░░░░░░░   63.65 % 
-Github-Copilot           614 lines           █████████░░░░░░░░░░░░░░░░   36.35 % 
+GPT                      833 lines           ██████████████░░░░░░░░░░░   57.57 % 
+Github-Copilot           614 lines           ███████████░░░░░░░░░░░░░░   42.43 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 57.92% of written lines came from AI
-📝 Concise Prompter — average 230 characters per prompt
+⚖️ Balanced with AI — 53.99% of written lines came from AI
+📝 Concise Prompter — average 260 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 57.22% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 60.96% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -79,7 +79,7 @@ GDScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/08/2026 01:25:35 UTC
+ Last Updated on 26/08/2026 01:35:42 UTC
 <!--END_SECTION:waka-->
 
 ![](https://hit.yhype.me/github/profile?user_id=46078832)
