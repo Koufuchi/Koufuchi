@@ -29,41 +29,19 @@ Sunday                   43 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   15 mins             ███████████░░░░░░░░░░░░░░   45.75 % 
-PowerShell               14 mins             ███████████░░░░░░░░░░░░░░   42.09 % 
-Markdown                 2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-Batchfile                0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  31 mins             ███████████████████████░░   91.99 % 
-Codex Vscode             2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  34 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 mins (36.88%)
-
-✍️ 179 lines written by AI, 144 lines written by hand (55.42% AI-written)
-
-🔤 91,284 Input Tokens, 7,246 Output Tokens
-
-💵 $0.75 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 4 AI Prompts
-
-GPT                      131 lines           ██████████████████░░░░░░░   73.18 % 
-Github-Copilot           48 lines            ███████░░░░░░░░░░░░░░░░░░   26.82 % 
-
-🔎 AI Coding Insights:
-⚖️ Balanced with AI — 55.42% of written lines came from AI
-📝 Concise Prompter — average 305 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 45.92% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -79,7 +57,7 @@ GDScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/08/2026 08:22:05 UTC
+ Last Updated on 28/08/2026 10:23:00 UTC
 <!--END_SECTION:waka-->
 
 ![](https://hit.yhype.me/github/profile?user_id=46078832)
