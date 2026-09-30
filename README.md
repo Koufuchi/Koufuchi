@@ -29,22 +29,35 @@ Sunday                   43 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Batchfile                3 mins              ███████████████░░░░░░░░░░   60.16 % 
-Python                   2 mins              ████████░░░░░░░░░░░░░░░░░   31.16 % 
-YAML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
-Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+HTML                     1 min               █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  6 mins              █████████████████████████   100.00 % 
+Codex Vscode             1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 mins              █████████████████████████   100.00 % 
+Windows                  1 min               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 min (100.0%)
+
+✍️ 202 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 29,388 Input Tokens, 4,780 Output Tokens
+
+💵 $0.35 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 1 AI Prompts
+
+GPT                      202 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 39 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -60,7 +73,7 @@ GDScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/09/2026 05:00:32 UTC
+ Last Updated on 30/09/2026 04:47:20 UTC
 <!--END_SECTION:waka-->
 
 ![](https://hit.yhype.me/github/profile?user_id=46078832)
